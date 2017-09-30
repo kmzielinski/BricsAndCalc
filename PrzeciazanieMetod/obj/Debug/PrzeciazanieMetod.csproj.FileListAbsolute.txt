@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\bin\Debug\PrzeciazanieMetod.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\bin\Debug\PrzeciazanieMetod.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\bin\Debug\PrzeciazanieMetod.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\obj\Debug\PrzeciazanieMetod.csprojResolveAssemblyReference.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\obj\Debug\PrzeciazanieMetod.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\obj\Debug\PrzeciazanieMetod.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\PrzeciazanieMetod\obj\Debug\PrzeciazanieMetod.pdb

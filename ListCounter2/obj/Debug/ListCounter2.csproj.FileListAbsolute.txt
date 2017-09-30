@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\bin\Debug\ListCounter2.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\bin\Debug\ListCounter2.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\bin\Debug\ListCounter2.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\obj\Debug\ListCounter2.csprojResolveAssemblyReference.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\obj\Debug\ListCounter2.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\obj\Debug\ListCounter2.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\ListCounter2\obj\Debug\ListCounter2.pdb

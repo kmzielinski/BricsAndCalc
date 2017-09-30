@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\bin\Debug\NameDictionary.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\bin\Debug\NameDictionary.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\bin\Debug\NameDictionary.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\obj\Debug\NameDictionary.csprojResolveAssemblyReference.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\obj\Debug\NameDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\obj\Debug\NameDictionary.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\NameDictionary\obj\Debug\NameDictionary.pdb

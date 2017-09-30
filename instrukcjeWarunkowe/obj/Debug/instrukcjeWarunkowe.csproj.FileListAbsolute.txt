@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\bin\Debug\instrukcjeWarunkowe.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\bin\Debug\instrukcjeWarunkowe.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\bin\Debug\instrukcjeWarunkowe.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\obj\Debug\instrukcjeWarunkowe.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\obj\Debug\instrukcjeWarunkowe.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\obj\Debug\instrukcjeWarunkowe.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\instrukcjeWarunkowe\obj\Debug\instrukcjeWarunkowe.csprojResolveAssemblyReference.cache

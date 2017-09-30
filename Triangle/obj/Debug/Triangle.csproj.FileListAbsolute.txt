@@ -1,0 +1,6 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\bin\Debug\Triangle.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\obj\Debug\Triangle.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Triangle\obj\Debug\Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\bin\Debug\ZajeciaCzwartek28.exe.config
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\bin\Debug\ZajeciaCzwartek28.exe
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\bin\Debug\ZajeciaCzwartek28.pdb
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\obj\Debug\ZajeciaCzwartek28.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\obj\Debug\ZajeciaCzwartek28.exe
+C:\Users\Student02\source\repos\ZajeciaCzwartek28\ZajeciaCzwartek28\ZajeciaCzwartek28\obj\Debug\ZajeciaCzwartek28.pdb

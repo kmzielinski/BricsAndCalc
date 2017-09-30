@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\bin\Debug\@while.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\bin\Debug\@while.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\bin\Debug\@while.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\obj\Debug\while.csprojResolveAssemblyReference.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\obj\Debug\@while.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\while\obj\Debug\@while.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\obj\Debug\DatePicker.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\bin\Debug\DatePicker.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\bin\Debug\DatePicker.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\bin\Debug\DatePicker.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\obj\Debug\DatePicker.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\obj\Debug\DatePicker.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\DatePicker\obj\Debug\DatePicker.csprojResolveAssemblyReference.cache

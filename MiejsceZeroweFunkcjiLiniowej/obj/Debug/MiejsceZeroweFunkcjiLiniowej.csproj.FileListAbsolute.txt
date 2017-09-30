@@ -1,0 +1,7 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\bin\Debug\MiejsceZeroweFunkcjiLiniowej.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\bin\Debug\MiejsceZeroweFunkcjiLiniowej.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\bin\Debug\MiejsceZeroweFunkcjiLiniowej.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\obj\Debug\MiejsceZeroweFunkcjiLiniowej.csprojResolveAssemblyReference.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\obj\Debug\MiejsceZeroweFunkcjiLiniowej.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\obj\Debug\MiejsceZeroweFunkcjiLiniowej.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\MiejsceZeroweFunkcjiLiniowej\obj\Debug\MiejsceZeroweFunkcjiLiniowej.pdb

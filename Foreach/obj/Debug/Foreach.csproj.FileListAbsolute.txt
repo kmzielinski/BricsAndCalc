@@ -1,0 +1,6 @@
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\bin\Debug\Foreach.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\obj\Debug\Foreach.exe
+C:\Users\Student02\source\repos\MojaPierwszaAplikacja\Foreach\obj\Debug\Foreach.pdb
